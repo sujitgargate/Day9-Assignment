@@ -1,5 +1,5 @@
-#!/bin/bash -x
-isFullTime=2;
+#!/bin/bash -x 
+isFullTime=2
 maxHrsInMonth=10;
 empRatePerHour=20;
 totalEmpHrs=0;
