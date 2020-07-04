@@ -1,6 +1,6 @@
 #!/bin/bash -x
 isPartTime=1;
-maxHrsInMonth=10;
+maxHrsInMonth=10
 empRatePerHour=30;
 totalEmpHrs=0;
 
